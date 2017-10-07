@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Component;
 
 /**
- * 类描述：
+ * 类描述：自定义用户信息（自己扩展）
  * 
  * @创建人：navy.chi@chinablackhawk.com
  * @创建时间：Oct 7, 2017 10:02:22 AM @修改人： @修改时间： @修改备注：
