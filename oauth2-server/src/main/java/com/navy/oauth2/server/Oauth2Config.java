@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import com.navy.oauth2.server.properties.Oauth2ServerProperties;
 
 /**
- * 类描述：Oauth2 config
+ * 类描述：Oauth2 config properties
  * 
  * @创建人：navy.chi@chinablackhawk.com
  * @创建时间：Oct 7, 2017 9:37:04 AM @修改人： @修改时间： @修改备注：
