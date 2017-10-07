@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.navy.oauth2.server.properties.Oauth2ServerProperties",
+      "name": "navy.security",
+      "type": "com.navy.oauth2.server.properties.Oauth2ServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.navy.oauth2.server.properties.Oauth2ServerProperties",
+      "name": "navy.security.oauth2",
+      "type": "com.navy.oauth2.server.properties.Oauth2Properties"
+    }
+  ]
+}
