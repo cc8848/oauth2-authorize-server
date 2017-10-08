@@ -7,7 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 类描述：
+ * 类描述：oauth2 server application
  * 
  * @创建人：navy.chi@chinablackhawk.com
  * @创建时间：Oct 7, 2017 9:23:53 AM @修改人： @修改时间： @修改备注：
